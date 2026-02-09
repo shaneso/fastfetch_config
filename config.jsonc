@@ -1,13 +1,13 @@
 {
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
   "display": {
-    "color": "magenta"
+    "color": "38;2;152;221;252"
   },
   "logo": {
     "source": "arch",
     "color": {
-      "1": "magenta",
-      "2": "blue"
+      "1": "38;2;152;221;252",
+      "2": "38;2;114;211;254"
     }
   },
   "modules": [
